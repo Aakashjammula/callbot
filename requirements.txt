@@ -1,0 +1,7 @@
+Flask
+Twilio
+webrtcvad
+requests
+langchain_google_genai
+langchain_core
+python-dotenv
